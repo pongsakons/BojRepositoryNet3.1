@@ -1,0 +1,10 @@
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\bin\Debug\netcoreapp3.1\BojTheft.Dal.deps.json
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\bin\Debug\netcoreapp3.1\BojTheft.Dal.dll
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\bin\Debug\netcoreapp3.1\BojTheft.Dal.pdb
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.csproj.AssemblyReference.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.AssemblyInfoInputs.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.AssemblyInfo.cs
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.csproj.CoreCompileInputs.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.dll
+D:\work\RepositotyNet31\BojTheft\BojTheft.Dal\obj\Debug\netcoreapp3.1\BojTheft.Dal.pdb

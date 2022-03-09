@@ -1,0 +1,13 @@
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\bin\Debug\netcoreapp3.1\BojTheft.Bll.deps.json
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\bin\Debug\netcoreapp3.1\BojTheft.Bll.dll
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\bin\Debug\netcoreapp3.1\BojTheft.Bll.pdb
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.csproj.AssemblyReference.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.AssemblyInfoInputs.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.AssemblyInfo.cs
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.csproj.CoreCompileInputs.cache
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.dll
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.pdb
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\bin\Debug\netcoreapp3.1\BojTheft.Dal.dll
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\bin\Debug\netcoreapp3.1\BojTheft.Dal.pdb
+D:\work\RepositotyNet31\BojTheft\BojTheft.Bll\obj\Debug\netcoreapp3.1\BojTheft.Bll.csproj.CopyComplete
