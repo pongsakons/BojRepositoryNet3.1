@@ -1,9 +1,11 @@
 using BojTheft.Bll.Interface;
 using BojTheft.Bll.Managers;
+using BojTheft.Dal.Context;
 using BojTheft.Dal.Interface;
-using BojTheft.Dal.MockRepositorys;
+using BojTheft.Dal.Repositorys;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,10 +26,11 @@ namespace BojTheft.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-
+            services.AddDbContext<TheftDbContext>(item =>
+            item.UseSqlServer(Configuration["ConnectionStrings:BojTheftConnection"]));
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-            services.AddScoped<ITheftRepositiry, TheftMockRepositiry>();
+            services.AddScoped<ITheftRepositiry, TheftRepositiry>();
             services.AddScoped<ITheftManager, TheftManager>();
         }
 
